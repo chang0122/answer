@@ -1,0 +1,2 @@
+s="junyiacademy"
+print(s[::-1])
